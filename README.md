@@ -23,4 +23,5 @@ https://meakanksharani.github.io/Weather-Forecast-Web-App/
 
 
 ## Screenshots
-(Add screenshots)
+(![Uploading image.png…]()
+)
