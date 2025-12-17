@@ -19,7 +19,8 @@ Real-time weather application built with HTML, CSS, and JavaScript using API int
 - Handles invalid city search gracefully
 
 ## Live Demo
-(Add GitHub Pages link here)
+(https://MeAkankshaRani.github.io/Weather-Forecast-Web-App/
+)
 
 ## Screenshots
 (Add screenshots)
